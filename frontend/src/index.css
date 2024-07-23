@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.organic {
+  color: #00cd91;
+}
+
+.glass {
+  color: #ffd93e;
+}
+
+.plastic {
+  color: #ff2f2f;
+}
+
+.battery {
+  color: #8c52ff;
+}
+
+.metal {
+  color: #0097b2;
+}
+
+.paper {
+  color: #ff914d;
+}
